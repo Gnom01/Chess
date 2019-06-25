@@ -1,0 +1,12 @@
+E:\C#-chass\Chess\chess\bin\Debug\chess.dll
+E:\C#-chass\Chess\chess\bin\Debug\chess.pdb
+E:\C#-chass\Chess\chess\obj\Debug\chess.csprojAssemblyReference.cache
+E:\C#-chass\Chess\chess\obj\Debug\chess.csproj.CoreCompileInputs.cache
+E:\C#-chass\Chess\chess\obj\Debug\chess.dll
+E:\C#-chass\Chess\chess\obj\Debug\chess.pdb
+F:\C#-chass\Chess\chess\bin\Debug\chess.dll
+F:\C#-chass\Chess\chess\bin\Debug\chess.pdb
+F:\C#-chass\Chess\chess\obj\Debug\chess.csprojAssemblyReference.cache
+F:\C#-chass\Chess\chess\obj\Debug\chess.csproj.CoreCompileInputs.cache
+F:\C#-chass\Chess\chess\obj\Debug\chess.dll
+F:\C#-chass\Chess\chess\obj\Debug\chess.pdb

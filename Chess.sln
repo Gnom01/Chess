@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 15 for Windows Desktop
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chess", "chess\chess.csproj", "{70928751-EB9A-4AC5-B466-4DEAAD59BF26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassDemo", "ClassDemo\ClassDemo.csproj", "{483F2188-6B10-4FDE-ADDC-EAA5F3407D2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70928751-EB9A-4AC5-B466-4DEAAD59BF26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70928751-EB9A-4AC5-B466-4DEAAD59BF26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70928751-EB9A-4AC5-B466-4DEAAD59BF26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70928751-EB9A-4AC5-B466-4DEAAD59BF26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{483F2188-6B10-4FDE-ADDC-EAA5F3407D2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{483F2188-6B10-4FDE-ADDC-EAA5F3407D2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{483F2188-6B10-4FDE-ADDC-EAA5F3407D2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{483F2188-6B10-4FDE-ADDC-EAA5F3407D2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3548EA0A-E4FB-4CD1-BFE4-06CD5A6F4A01}
+	EndGlobalSection
+EndGlobal
